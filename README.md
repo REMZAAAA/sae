@@ -16,17 +16,6 @@ Le site comprend :
 
 ---
 
-## 👥 Membres du groupe et répartition des tâches
-
-| Membre      | Tâches principales                                                                 |
-|-------------|------------------------------------------------------------------------------------|
-| **Hamza**   | Création et intégration du menu burger (responsive), structure HTML/CSS globale, organisation des 5 pages, développement du formulaire et optimisation du design. |
-| **Raphaël** | Rédaction et mise en page du contenu des pages, choix des images et descriptions associées. |
-| **Ayoub**   | Intégration des images et création des points d'ancrage pour le menu, ajout des liens internes entre les pages. |
-| **Nicolas** | Conception et mise en page du footer, ajustements des styles CSS pour les éléments interactifs (hover, active). |
-
----
-
 ## 📂 Structure des fichiers
 
 Voici la structure des fichiers du projet :
