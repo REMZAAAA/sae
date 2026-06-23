@@ -55,14 +55,6 @@ root/
 
 ---
 
-## 📋 Hébergement
-
-Le site est hébergé sur mon **VPS** et peut être consulté à l'adresse suivante : **[https://hchamrouk.com/sae1-06/](https://hchamrouk.com/sae1-06/)**
-
-La réponse du formulaire est aussi hébergé sur mon **VPS** ici : **[https://hchamrouk.com/sae1-06/form.php](https://hchamrouk.com/sae1-06/form.php)**
-
----
-
 ## 📑 Validation
 - **Responsive** : Testé sur différents navigateurs (Chrome, Edge, Firefox, Safari) et tailles d'écran (ordinateur, tablette, smartphone).
 
